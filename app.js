@@ -14,4 +14,4 @@ function lifeInWeeks(age) {
         
 /*************Don't change the code below**********/
 }
-lifeInWeeks(10);   
+lifeInWeeks( age = prompt("What's your age: "));   
